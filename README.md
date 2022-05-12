@@ -8,7 +8,7 @@ Note 1: Currently only text is supported(no pictures). This is a limitation of t
 Note 2: Designed with teachers in mind, but everyone is welcome!
 
 ## :warning: Warning
-Data is not persistent (won't save betwen uses) at this time. Use at your own risk. 
+Data is not persistent (won't save between) uses at this time. Use at your own risk. 
 
 ## :mega: Shoutouts
 - [appJar](https://appjar.info) - a simple tKinter wrapper for beginners. Made by a teacher!
