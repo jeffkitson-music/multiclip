@@ -4,8 +4,9 @@ A simple multi-clipboard for teachers.
 ## :scissors: How It Works
 This is intended for is use when needing to switch between pasting multiple data points. Users can save data to one of four buttons. In "Save" mode, pressing a button will save data currently in the clipboard to that button. In "Paste" mode, pressing a button will load saved data to the user's clipboard for pasting in another application.  
 
-Note 1: Currently only text is supported(no pictures). This is a limitation of the clipboard library under the hood. 
-Note 2: Designed with teachers in mind, but everyone is welcome!
+**Notes**
+- Currently only text is supported(no pictures). This is a limitation of the clipboard library under the hood. 
+- Designed with teachers in mind, but everyone is welcome!
 
 ## :warning: Warning
 Data is not persistent (won't save) between uses at this time. Use at your own risk. 
